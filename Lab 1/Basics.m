@@ -1,5 +1,5 @@
 % Covering the basics of MATLAB 
-
+%LAB 1
 x=1 ;                  % defining a scalar
 y=[1;2;3;3];           % define a column vector 
 z=[1 01 2];            % define a row vector 
